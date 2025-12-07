@@ -1,0 +1,8 @@
+.popup-panel {
+    width: 550px;
+    height: 250px;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: var(--color-back-drk);
+    background-color: transparent;
+}
